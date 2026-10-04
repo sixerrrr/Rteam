@@ -66,7 +66,7 @@ What kind of ANCIENT piece of garbage does not understand what a PNG file is?!
 Not to mention having to click <kbd>Banner</kbd> -> <kbd>...</kbd> -> <kbd>Browse</kbd> -> <kbd>Application Files</kbd> -> <kbd>All files (*)</kbd> -> <kbd>banner.png</kbd> about half a million times.
 My hand hurts SO MUCH after doing that.
 
-If a big red monster looking thing shows up at Microsoft HQ, remember this.
+If a big red guest looking thing shows up at Microsoft HQ, you'll know why.
 
 ![MIT License](https://img.shields.io/badge/MIT-license?style=plastic&label=License)
 
