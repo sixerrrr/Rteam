@@ -59,6 +59,15 @@ The Microsoft Windows Credential Locker sets a [limit of 20 credentials for appl
 
 4. Done! Your account should show up in the account switcher now.
 
+### Side-tangent: I HATE, no, I DESPISE Visual Studio Installer.
+
+What kind of ANCIENT piece of garbage does not understand what a PNG file is?!
+
+Not to mention having to click <kbd>Banner</kbd> -> <kbd>...</kbd> -> <kbd>Browse</kbd> -> <kbd>Application Files</kbd> -> <kbd>All files (*)</kbd> -> <kbd>banner.png</kbd> about half a million times.
+My hand hurts SO MUCH after doing that.
+
+If a big red monster looking thing shows up at Microsoft HQ, remember this.
+
 ![MIT License](https://img.shields.io/badge/MIT-license?style=plastic&label=License)
 
 Built by @sixerrrr. I **hate** Visual Studio Installer.
