@@ -6,9 +6,20 @@
 
 ### Getting started
 
-1. Download [Rteam.msix](https://example.com)
+
+
+1. Download [Rteam.msi](https://example.com)
+
+> [!NOTE]
+> An [MSIX installer](https://example.com) is available, but you will need to turn on developer mode to install it.
+
+> [!IMPORTANT]
+> SmartScreen will nag you about how it "protected your PC". This is due to the code being unsigned.
+>
+> I am **NOT** paying to get a certificate, you will have to click More Info and Run anways.
+
 2. Open it
-3. Click `Install`
+3. Click <kbd>Install</kbd>
 4. Open Rteam from the start menu
 
 ### How does multi-instancing work?
@@ -28,18 +39,21 @@ If you are still skeptical, you can compile it yourself using [Visual Studio Com
 
 No.
 
+### Why can I only use 20 accounts?
+
+The Microsoft Windows Credential Locker sets a [limit of 20 credentials for applications](https://learn.microsoft.com/en-us/windows/apps/develop/security/credential-locker#overview-of-the-sample-scenario).
+
 ### How do I login?
 
 1. Click "Manage Accounts"
-2. Click the + icon.
+2. Click the <kbd>+</kbd> icon.
 3. Open Roblox and:
 
-	- If you are on mobile, click the hamburger menu (☰) and then scroll down to "Quick Sign-in" and type in your code there and then accept
-	- If you are on desktop, go to [roblox.com](https://roblox.com/home), click on the settings icon (⚙️), Quick Sign In, type in the code and then accept
+	- If you are on mobile, click the hamburger menu <kbd>☰</kbd> and then scroll down to "Quick Sign-in" and type in your code there and then accept
+	- If you are on desktop, go to [roblox.com](https://roblox.com/home), click on the settings icon <kbd>⚙️</kbd>, Quick Sign In, type in the code and then accept
 
 4. Done! Your account should show up in the account switcher now.
 
-![MIT License](https://img.shields.io/badge/MIT-license?style=plastic&label=License
-)
+![MIT License](https://img.shields.io/badge/MIT-license?style=plastic&label=License)
 
 Built by @sixerrrr
