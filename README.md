@@ -6,21 +6,26 @@
 
 ### Getting started
 
-
-
 1. Download [Rteam.msi](https://example.com)
 
 > [!NOTE]
 > An [MSIX installer](https://example.com) is available, but you will need to turn on developer mode to install it.
 
 > [!IMPORTANT]
-> SmartScreen will nag you about how it "protected your PC". This is due to the code being unsigned.
+> SmartScreen will (probably) nag you about how it "protected your PC". This is due to the code being unsigned.
 >
 > I am **NOT** paying to get a certificate, you will have to click More Info and Run anways.
 
+> [!IMPORTANT]
+> This program requires .NET Core 8. The installer should install it for you.
+
 2. Open it
-3. Click <kbd>Install</kbd>
-4. Open Rteam from the start menu
+3. Click <kbd>Next</kbd>
+4. Click <kbd>Next</kbd> (again)
+5. Click <kbd>Next</kbd> (again) (again)
+6. Accept the UAC prompt.
+7. Click <kbd>Close</kbd>
+8. Open Rteam from the start menu
 
 ### How does multi-instancing work?
 
@@ -56,4 +61,4 @@ The Microsoft Windows Credential Locker sets a [limit of 20 credentials for appl
 
 ![MIT License](https://img.shields.io/badge/MIT-license?style=plastic&label=License)
 
-Built by @sixerrrr
+Built by @sixerrrr. I **hate** Visual Studio Installer.
